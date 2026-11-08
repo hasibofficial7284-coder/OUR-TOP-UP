@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "HASIB OFFICIAL ";
+var website_name = "HASIB OFFICIAL";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -11,12 +11,12 @@ var telegram_channel_link = "https://t.me/+PLl8UNN-gGI1YTI1";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/premiumapp14";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "https://www.youtube.com/@HASIBOFFICIAL-";
+var youtube_channel_link = "https://www.youtube.com/@HASIBOFFICIAL-f";
 
 // =======================================================
 // NOTIFICATION TEXT
